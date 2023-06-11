@@ -16,7 +16,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
-
+    //'name' => env('APP_NAME', 'Nawaf8')
     /*
     |--------------------------------------------------------------------------
     | Application Environment
@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http://nawaf8'),
 
     'asset_url' => env('ASSET_URL'),
 
